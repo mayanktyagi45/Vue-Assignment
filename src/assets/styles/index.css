@@ -1,0 +1,9 @@
+body {
+  background-color: #6839b7;
+  color: #2c3e50;
+  font-family: 'Roboto', sans-serif;
+  margin-top: 1.25rem;
+  text-align: center;
+  -moz-osx-font-smoothing: grayscale;
+  -webkit-font-smoothing: antialiased;
+}
